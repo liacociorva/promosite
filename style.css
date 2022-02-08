@@ -1,0 +1,45 @@
+
+* {
+	box-sizing: border-box;
+}
+
+body, html {
+	background: url(sketch.jpeg) no-repeat center fixed; 
+    background-size: cover;
+	margin:  100px;
+	padding: 0px;
+}
+
+h1{
+	margin: 0px;
+	padding: 0px;
+	font-family: "Gill Sans", Times, sans-serif;
+	
+    color: #420F04;
+}
+p {
+	margin: 0px;
+	padding: 0px;
+	font-family: "Gill Sans", Times, sans-serif;
+	font-size: 20px;
+    color: #420F04;
+}
+
+.center {
+  text-align: center;
+}
+
+
+.gallery {
+	text-align: center;
+	width: 100%;
+	background-color: beige;
+	padding: 20px;
+	border: 10px solid brown;
+}
+
+
+
+img {
+  width: 100%;
+}
